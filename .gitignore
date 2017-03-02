@@ -8,3 +8,6 @@ Win32
 *.html
 *.exe
 *.ilc
+*.pdf
+*.local
+*.stat
