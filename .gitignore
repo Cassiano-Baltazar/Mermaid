@@ -11,3 +11,4 @@ Win32
 *.pdf
 *.local
 *.stat
+*.identcache
