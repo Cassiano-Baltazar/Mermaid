@@ -1,0 +1,10 @@
+Win32
+*.ild
+*.ilf
+*.ils
+*.map
+*.pdi
+*.tds
+*.html
+*.exe
+*.ilc
